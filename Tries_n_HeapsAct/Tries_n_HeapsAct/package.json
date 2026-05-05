@@ -1,5 +1,5 @@
 {
-  "name": "grafosact",
+  "name": "tries_n_heapsact",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,9 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^18.3.1",
-    "react-d3-graph": "^2.6.0",
-    "react-dom": "^18.3.1"
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
